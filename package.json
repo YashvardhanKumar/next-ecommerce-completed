@@ -1,0 +1,34 @@
+{
+  "name": "next-ecommerce-completed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@wix/ecom": "^1.0.799",
+    "@wix/members": "^1.0.113",
+    "@wix/sdk": "^1.14.2",
+    "@wix/stores": "^1.0.274",
+    "autoprefixer": "^10.4.20",
+    "isomorphic-dompurify": "^2.16.0",
+    "js-cookie": "^3.0.5",
+    "next": "^15.0.2",
+    "postcss": "^8.4.47",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.14",
+    "zustand": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.6",
+    "@types/node": "^22.9.0",
+    "@types/react": "^18.3.12",
+    "typescript": "^5.6.3"
+  }
+}
